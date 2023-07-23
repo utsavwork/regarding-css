@@ -9,5 +9,11 @@ div{
 
 #box1{
     position: static;
-    
+
+}
+
+#box2{
+    position: relative;
+    top:20px;
+    left: 20px;
 }
