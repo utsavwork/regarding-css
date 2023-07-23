@@ -1,0 +1,36 @@
+div{
+    height:100px;
+    width : 300px;
+    background-color: pink;
+    text-align : right;
+    border-color : yellowgreen;
+    border-style : groove;
+    border-width: 3px;
+}
+
+h1{
+    width : 400px;
+    height : 100px;
+    text-align: center;
+    background-color: aqua;
+    color : whitesmoke;
+    border : 2px dashed green;
+}
+
+p{
+    border : 2px solid brown;
+}
+
+button{
+    border : 3px dotted chocolate;
+    border-radius: 37px;
+}
+
+#cir{
+    height : 300px;
+    width : 300px;
+    background-color: burlywood;
+    text-align: center;
+    border : 4px dotted pink;
+    border-radius: 50%;
+}
