@@ -1,0 +1,58 @@
+*{
+    padding : 0px;
+    margin : 0px;
+}
+
+#aaa{
+    height : 100px;
+    width : 100px;
+    background-color : green;
+    border-radius: 50%;
+    border : 5px dashed magenta;
+}
+
+
+#navbar{
+    height : 60px;
+    background-color: #0f1111;
+
+}
+
+a{
+    color: white;
+    margin-right: 200px;
+    text-decoration: none;
+}
+
+button{
+    background-color: #f08804;
+}
+
+#logo{
+    color : #f08804;
+    font-size : 25px;
+}
+
+
+.dd{
+    height : 100px;
+    width : 100px;
+    border: 3px solid red;
+    display: inline-block;
+}
+
+
+#d1{
+    background-color : rgba(200,80,90,0.5);
+}
+#d2{
+    background-color: rgba(200,80,90,0.75);
+}
+#d3{
+    background-color: rgba(200,80,90,1);
+}
+
+#foot{
+    margin-top: 348px;
+    font-size: 20px;
+}
