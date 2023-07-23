@@ -9,6 +9,7 @@ div{
 
 #box1{
     position: static;
+    background-color: blueviolet;
 
 }
 
@@ -16,4 +17,21 @@ div{
     position: relative;
     top:20px;
     left: 20px;
+    background-color: brown;
+}
+
+#box3{
+    position : absolute;
+    /* 3 and 4 is over lapping */
+    left : 25px;
+    top : 10px;
+    background-color: cadetblue;
+}
+
+#box4{
+    position: fixed;
+    background-color: chocolate;
+    right: 0px;
+    bottom: 0;
+    width: 100vw;
 }
