@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+}
+
+div{
+    height : 100px;
+    width : 100px;
+    display : inline-block;
+    border : 2px solid black;
+
+}
+
+#container {
+    width : 800px;
+    height : 200px;
+}
+
+#box1{
+    background-color: aqua;
+}
+
+#box2{
+    background-color:rgb(183, 0, 255);
+}
+
+#box3{
+    background-color: rgba(238, 255, 0, 0.438);
+}
+
+#box4{
+    background-color: rgba(255, 0, 34, 0.548);
+}
+
+#box5{
+    background-color: salmon;
+}
