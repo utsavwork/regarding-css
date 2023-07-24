@@ -1,0 +1,22 @@
+div{
+    height : 100px;
+    width : 100px;
+    background-color : pink;
+}
+
+@media (width : 600px){
+    div{
+        background-color : aquamarine;
+    }
+}
+
+@media (min-width : 601px){
+    div{
+        background-color : chocolate;
+    }
+}
+@media (max-width : 599px){
+    div{
+        background-color: violet;
+    }
+}
