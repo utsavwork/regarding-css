@@ -1,0 +1,18 @@
+div{
+    height : 300px;
+    width : 300px;
+    border : 20px solid #ffe66d;
+    border-top: 20px solid #4ecdc4;
+    /* background-color: yellowgreen; */
+    border-radius: 50%;
+    animation : spinAnimate 3s ease-in 0s infinite normal;
+}
+
+@keyframes spinAnimate{
+    from {
+        transform : rotate(0deg);
+    }
+    to {
+        transform : rotate(360deg);
+    }
+}
